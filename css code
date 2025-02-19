@@ -1,0 +1,40 @@
+*{
+    body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0.5px;
+    background-color: #f0f0f0;
+  }
+  
+  .stopwatch {
+    text-align: center;
+  }
+  
+  #display {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+}
