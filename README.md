@@ -1,1 +1,0 @@
-# stop-watchi-skillcraft-technology

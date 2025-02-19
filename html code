@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Stopwatch </title>
+        <link rel="stylesheet" href="task3 style.css">
+        </head>
+        <body>
+            <div class="stopwatch">
+                <div id="display">00:00.000</div>
+                 <button id="startPauseBtn">Start</button>
+                 <button id="resetBtn">Reset</button>
+            </div>
+<script src="task3.js"></script>
+</body>
+</html>
